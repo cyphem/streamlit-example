@@ -17,3 +17,4 @@ textblob==0.17.1
 typing-extensions==4.1.1
 Werkzeug==2.0.3
 zipp==3.6.0
+streamlit==1.1*
